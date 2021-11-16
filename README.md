@@ -14,3 +14,7 @@
 - matplotlib (for visualization)
   
 for test on real video, download dlib shape_predictor model file [here](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2)
+
+
+참고 링크
+https://opentutorials.org/module/3811/25289
